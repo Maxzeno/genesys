@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container{
+	height: 100px;
+	border: 2px solid purple;
+}
+
+.item{
+	width: 10px
+	height: 10px;
+	margin: 5px;
+	background-color: blue;
+}
