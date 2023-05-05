@@ -1,9 +1,13 @@
+### Taught CSS Positioning, Flexbox and Grids at Genesys as a Mentor (Facilitator)
+
+# Materials
+
 Github with the code 
  - https://github.com/Maxzeno/genesys
 
 Learn css Positioning
-https://www.w3schools.com/css/css_positioning.asp
-https://www.youtube.com/watch?v=MxEtxo_AaZ4&list=LL&index=4&t=20s
+- https://www.w3schools.com/css/css_positioning.asp
+- https://www.youtube.com/watch?v=MxEtxo_AaZ4&list=LL&index=4&t=20s
 
 Learn css Flexbox
 - https://www.youtube.com/watch?v=phWxA89Dy94&list=LL&index=4
