@@ -1,6 +1,6 @@
-### Javascript Conditional Statements and Logical Operators
+# Javascript Conditional Statements and Logical Operators
 
-# Materials
+## Materials
 
 Github with the code 
 - https://github.com/Maxzeno/genesys

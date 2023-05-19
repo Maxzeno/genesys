@@ -1,6 +1,6 @@
-### CSS Layout
+# CSS Layout
 
-# Materials
+## Materials
 
 Github with the code 
 - https://github.com/Maxzeno/genesys

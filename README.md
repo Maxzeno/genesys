@@ -1,8 +1,8 @@
-### Taught CSS Layout, Javascript Conditional Statements and Logical Operators - At Genesys as a Facilitator (Mentor)
+# Taught CSS Layout, Javascript Conditional Statements and Logical Operators - At Genesys as a Facilitator (Mentor)
 
-# Materials
+## Materials
 
-## Javascript Conditional Statements and Logical Operators
+### Javascript Conditional Statements and Logical Operators
 
 Github with the code 
 - https://github.com/Maxzeno/genesys
@@ -23,7 +23,7 @@ The Slide
 - https://docs.google.com/presentation/d/1HqR7OB0wxJ5syVv4v8O3FTYdx1s513SePoj1mshC-wc/edit?usp=sharing
 
 
-## CSS Layout
+### CSS Layout
 
 Github with the code 
 - https://github.com/Maxzeno/genesys
