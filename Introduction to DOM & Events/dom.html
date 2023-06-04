@@ -2,8 +2,60 @@
 <html>
 <head>
 	<title>JS DOM</title>
+	<style>
+		.red {
+			color: red;
+		}
+		.blue {
+			color: blue;
+		}
+		.bg-green {
+			background-color: green;
+		}
+		.bg-yellow {
+			background-color: yellow;
+		}
+	</style>
 </head>
 <body>
+	<p id="p1">I am a p tag 1</p>
+	<p id="p2" class="red">I am a p tag 2</p>
+	<p id="p3">I am a p tag 3</p>
+	<div id="div1" class="red">Am a div 1</div>
+	<div id="div2">Am a div 2</div>
+<script>
+	// using getElementById
+	// element = document.getElementById('p1')
+	// element.innerHTML = "<strong>Am good</strong>"
+	// element.style.backgroundColor = 'green'
 
+	// using getElementsByTagName
+	// element2 = document.getElementsByTagName('div')
+	// console.log(element2)
+	// for (var i = 0; i < element2.length; i++) {
+	// 	element2[i].innerText = "Got all div tags"
+	// }
+
+	// using querySelector
+	// element3 = document.querySelector(".red")
+	// element3.innerText = "selects first element that matchs"
+	// console.log(element3)
+
+	//using querySelectorAll
+	// element4 = document.querySelectorAll('.red')
+	// console.log(element4)
+
+	// manipulation (class)
+	// element5 = document.querySelector('#p2')
+	// element5.classList.toggle('red')
+	// console.log(element5.classList)
+
+	// manipulation (attribute)
+	// element6 = document.querySelector('#div1')
+	// console.log(element6.id)
+	// element6.id = 'div50'
+
+
+</script>
 </body>
 </html>

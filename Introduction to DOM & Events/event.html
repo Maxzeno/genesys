@@ -2,8 +2,49 @@
 <html>
 <head>
 	<title>JS Events</title>
+	<style>
+	.red {
+		color: red;
+	}
+	.blue {
+		color: blue;
+	}
+	.bg-green {
+		background-color: green;
+	}
+	.bg-yellow {
+		background-color: yellow;
+	}
+	</style>
 </head>
 <body>
+	<p id="p1">I am a p tag 1</p>
+	<p id="p2">I am a p tag 2</p>
+	<button id="btn">Click me</button>
+<script>
+	// Event on a single element
+	element1 = document.querySelector('#btn')
+	// console.log(element1)
 
+	element1.addEventListener('click', changeColor)
+
+	function changeColor(event) {
+		event.target.classList.toggle('blue')
+	}
+
+	// Event on a list of elements
+	// elements = document.querySelectorAll('p')
+	// // console.log(elements)
+
+	// function changeBgColor(event) {
+	// 	event.target.classList.toggle('bg-yellow')
+	// }
+
+	// elements.forEach(function(element){
+	// 	element.addEventListener('click', changeBgColor)
+	// })
+
+
+</script>
 </body>
 </html>
